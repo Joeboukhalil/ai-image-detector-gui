@@ -15,3 +15,24 @@ This is a lightweight Convolutional Neural Network (CNN) model built with Tensor
 ## Getting Started
 
 1. Clone this repo:
+https://github.com/Joeboukhalil/ai-image-detector-gui.git
+
+
+2. Run the GUI:
+python gui_detector.py
+
+
+3. Browse an image and see if it's **Fake (AI-generated)** or **Real**!
+
+## Dataset Source
+Trained on the CIFAKE dataset:
+https://www.kaggle.com/datasets/jjblanchard/cifake-real-and-ai-generated-synthetic-images
+
+## Transparency
+This model was built with the help of AI (ChatGPT) for educational purposes.
+
+
+## requirements.txt
+tensorflow==2.10.0
+pillow
+
